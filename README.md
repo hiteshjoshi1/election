@@ -10,8 +10,15 @@ Pre- requisites
 Mongodb should be running.
 
 
-To run overall App
-From project root do 
+1)cd ui 
+npm install
+
+2) 
+cd ..
+npm install 
+ 
+3) And then  to run overall App
+From project root do - 
 <code>$ npm start</code>
 
 Your app is at
