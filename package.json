@@ -1,5 +1,5 @@
 {
-  "name": "vElect",
+  "name": "CVote",
   "version": "1.0.0",
   "description": "A Blockchain based voting app",
   "main": "server.js",
